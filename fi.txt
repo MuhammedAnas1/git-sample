@@ -1,6 +1,14 @@
 hi
 mi
+<<<<<<< HEAD
 mian
 
 
 podi
+=======
+mianft
+
+
+
+poda
+>>>>>>> master
